@@ -1,1 +1,0 @@
-const GOOGLE_MAPS_API_KEY = "AIzaSyCnswJ5femnVeD6PC4bH1y8mOwJg-RoiwA";
