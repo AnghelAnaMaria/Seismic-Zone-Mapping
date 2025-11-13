@@ -1,0 +1,30 @@
+<<<<<<< HEAD
+{
+  "name": "riscseism",
+  "version": "1.0.0",
+  "description": "Proiect Risc Seism - script de geocodare si procesare date",
+  "main": "nou.js",
+  "type": "module",
+  "scripts": {
+    "start": "node nou.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "node-geocoder": "^4.3.0"
+  }
+}
+=======
+{
+  "name": "riscseism",
+  "version": "1.0.0",
+  "description": "Proiect Risc Seism - script de geocodare si procesare date",
+  "main": "nou.js",
+  "type": "module",
+  "scripts": {
+    "start": "node nou.js"
+  },
+  "dependencies": {
+    "node-geocoder": "^4.3.0"
+  }
+}
+>>>>>>> 07d4e1a8521072f946f5fa376ae8b11e3ae500ce

@@ -1,0 +1,125 @@
+# # Default ignored files
+# /shelf/
+# /workspace.xml
+# # Editor-based HTTP Client requests
+# /httpRequests/
+# # Datasource local storage ignored files
+# /dataSources/
+# /dataSources.local.xml
+# =========================
+#  Node.js / JavaScript
+# =========================
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Build output
+dist/
+build/
+out/
+tmp/
+temp/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Diagnostic reports (https://nodejs.org/api/report.html)
+report.[0-9]*.[0-9]*.[0-9]*.[0-9]*.json
+
+# Coverage reports
+coverage/
+.nyc_output/
+
+# Compiled binaries or transpiled code
+lib/
+.eslintcache
+.cache/
+.next/
+.nuxt/
+.svelte-kit/
+.storybook-out/
+.vercel/
+.netlify/
+
+# Optional npm cache directory
+.npm/
+.pnpm-store/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# =========================
+#  OS / System Files
+# =========================
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+Desktop.ini
+
+# =========================
+#  Editor Configurations
+# =========================
+
+# VS Code
+.vscode/
+.history/
+
+# JetBrains (WebStorm, IntelliJ IDEA, PhpStorm, etc.)
+.idea/
+*.iml
+shelf/
+workspace.xml
+tasks.xml
+httpRequests/
+dataSources/
+dataSources.local.xml
+
+# Sublime
+*.sublime-workspace
+*.sublime-project
+
+# =========================
+#  Optional: Package Managers
+# =========================
+
+# Yarn v2
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+
+# Bun
+.bun/
+
+# =========================
+#  Misc
+# =========================
+*.tgz
+*.zip
+*.tar
+*.gz
+*.swp
+*.bak
+*.tmp
+
+# Local testing
+local.env
+test-results/
