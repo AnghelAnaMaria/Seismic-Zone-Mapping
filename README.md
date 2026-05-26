@@ -19,7 +19,3 @@ The project uses a **mapping API (Google Maps)** to render and manage the marker
 - **HTML & CSS**  
 - **Google Maps API**  
 
-## Setup & Usage
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/interactive-map-project.git
